@@ -1,0 +1,27 @@
+body{
+  background-color: azure;
+}
+
+.container{
+   border: 1px solid black;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 600px;
+    margin-left: 600px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+p{
+  background-color: blanchedalmond;
+}
+
+h1{
+  text-align: center;
+  color: aquamarine;
+}
+
+
+
